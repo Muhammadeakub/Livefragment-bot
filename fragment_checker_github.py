@@ -144,12 +144,26 @@ def parse_fragment(username: str, html: str, code: int) -> dict:
     text = soup.get_text(" ", strip=True)
     clean = re.sub(re.escape(username), " ", text, flags=re.IGNORECASE)
 
-    if re.search(r'\bsold\b', clean, re.IGNORECASE):
+    # The real status badge sits right after "<username>.t.me" on the page, e.g.
+    # "addicting.t.me On auction". Matching it there avoids false hits from boilerplate
+    # text elsewhere on the page that happens to contain words like "available".
+    badge_match = re.search(r'\.t\.me\s*(On\s*auction|Sold|Available|Taken|Unavailable)', clean, re.IGNORECASE)
+    if badge_match:
+        badge = badge_match.group(1).lower().replace(" ", "")
+        if badge == "onauction":
+            res["status"] = "On Auction"
+        elif badge == "sold":
+            res["status"] = "Sold"
+        elif badge == "available":
+            res["status"] = "Available"
+        else:
+            res["status"] = "Taken"
+    elif re.search(r'\bsold\b', clean, re.IGNORECASE):
         res["status"] = "Sold"
-    elif re.search(r'\bavailable\b', clean, re.IGNORECASE):
-        res["status"] = "Available"
     elif re.search(r'\btaken\b|\bunavailable\b', clean, re.IGNORECASE):
         res["status"] = "Taken"
+    elif re.search(r'\bavailable\b', clean, re.IGNORECASE):
+        res["status"] = "Available"
     else:
         res["status"] = "Unknown"
 
@@ -206,6 +220,7 @@ async def check_one(username: str) -> dict:
 
 STATUS_ICON = {
     "Available": "🟢",
+    "On Auction": "🔥",
     "Sold": "🔴",
     "Taken": "🟠",
     "Unknown": "⚪",
@@ -299,7 +314,24 @@ def make_report(results: list, history: dict) -> str:
 
     ok = sum(1 for r in results if r["min_bid_ton"] != "—" and "❌" not in r["status"] and "🛡️" not in r["status"])
     fail = len(results) - ok
-    footer = f"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n✅ {ok} parsed  •  ⚠️ {fail} failed"
+
+    # ─── Shortcut legend: quick counts per status category ───
+    counts = {}
+    for r in results:
+        counts[r["status"]] = counts.get(r["status"], 0) + 1
+
+    legend_order = ["Available", "On Auction", "Sold", "Taken", "Not on Fragment", "Unknown"]
+    legend_lines = []
+    for status in legend_order:
+        if status in counts:
+            legend_lines.append(f"{status_line(status)}  —  {counts[status]}")
+    other_count = sum(v for k, v in counts.items() if k not in legend_order)
+    if other_count:
+        legend_lines.append(f"⚠️ Other/Failed  —  {other_count}")
+
+    legend = "🗒️ Shortcut\n" + "\n".join(legend_lines)
+
+    footer = f"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n{legend}\n\n✅ {ok} parsed  •  ⚠️ {fail} failed"
 
     return header + "\n\n" + "\n\n".join(sections) + "\n\n" + footer
 
