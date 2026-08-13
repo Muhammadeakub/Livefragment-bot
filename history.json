@@ -1,180 +1,9 @@
 {
-  "kaustai": {
-    "username": "kaustai",
-    "status": "Available",
-    "min_bid_ton": "100",
-    "min_bid_usd": "134.12",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "bnb2048": {
-    "username": "bnb2048",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "crypto_signal_hub2018": {
-    "username": "crypto_signal_hub2018",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "deloreanai": {
-    "username": "deloreanai",
-    "status": "Available",
-    "min_bid_ton": "100",
-    "min_bid_usd": "134.12",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "zsats": {
-    "username": "zsats",
-    "status": "Available",
-    "min_bid_ton": "39",
-    "min_bid_usd": "52.30",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "ankrbnb": {
-    "username": "ankrbnb",
-    "status": "Available",
-    "min_bid_ton": "19",
-    "min_bid_usd": "25.48",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
   "artlistai": {
     "username": "artlistai",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "fuelvm": {
-    "username": "fuelvm",
-    "status": "Available",
-    "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "grok_card": {
-    "username": "grok_card",
-    "status": "Available",
-    "min_bid_ton": "—",
-    "min_bid_usd": "—",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "metamask_card": {
-    "username": "metamask_card",
-    "status": "Available",
-    "min_bid_ton": "—",
-    "min_bid_usd": "—",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "pengu_card": {
-    "username": "pengu_card",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "wallester_card": {
-    "username": "wallester_card",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "cryptomus_card": {
-    "username": "cryptomus_card",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "bitcoinoverview": {
-    "username": "bitcoinoverview",
-    "status": "Available",
-    "min_bid_ton": "19",
-    "min_bid_usd": "25.48",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "hotdropd": {
-    "username": "hotdropd",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "cryll_ai": {
-    "username": "cryll_ai",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "cryptocurrency_gg": {
-    "username": "cryptocurrency_gg",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "zenitreich": {
-    "username": "zenitreich",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "ankrdocs": {
-    "username": "ankrdocs",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
-    "highest_bid_ton": "?",
-    "highest_bid_usd": null,
-    "_debug": ""
-  },
-  "yieldport": {
-    "username": "yieldport",
-    "status": "Available",
-    "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -183,7 +12,7 @@
     "username": "auroralayer",
     "status": "Available",
     "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
+    "min_bid_usd": "13.36",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -192,7 +21,7 @@
     "username": "auto_updates",
     "status": "Available",
     "min_bid_ton": "190",
-    "min_bid_usd": "254.82",
+    "min_bid_usd": "253.91",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -201,7 +30,7 @@
     "username": "availfusion",
     "status": "Available",
     "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
+    "min_bid_usd": "13.36",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -210,7 +39,7 @@
     "username": "bitcoin005287",
     "status": "Available",
     "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
+    "min_bid_usd": "13.36",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -219,7 +48,7 @@
     "username": "celestiarollups",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -228,7 +57,7 @@
     "username": "conteflow",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -237,7 +66,7 @@
     "username": "eonprotocol",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -246,7 +75,16 @@
     "username": "facebookaccount_buy_sell_bd",
     "status": "Available",
     "min_bid_ton": "10",
-    "min_bid_usd": "13.41",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fuelvm": {
+    "username": "fuelvm",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -255,7 +93,7 @@
     "username": "futardtrade",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -264,7 +102,7 @@
     "username": "gptgraph",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -273,7 +111,7 @@
     "username": "initialabs",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -291,7 +129,7 @@
     "username": "social_post",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -300,7 +138,7 @@
     "username": "verychain",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.12",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -318,7 +156,7 @@
     "username": "zuvoria",
     "status": "Available",
     "min_bid_ton": "15",
-    "min_bid_usd": "20.11",
+    "min_bid_usd": "20.05",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
@@ -328,6 +166,3849 @@
     "status": "Available",
     "min_bid_ton": "—",
     "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cademarkets": {
+    "username": "cademarkets",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "collectible_markt": {
+    "username": "collectible_markt",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gramcasino888": {
+    "username": "gramcasino888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "markt_trader": {
+    "username": "markt_trader",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "my_collectible": {
+    "username": "my_collectible",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "sigmabrowser": {
+    "username": "sigmabrowser",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "standard_card": {
+    "username": "standard_card",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tunnlz": {
+    "username": "tunnlz",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "usdxcoin": {
+    "username": "usdxcoin",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "aeipay": {
+    "username": "aeipay",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "chen888b": {
+    "username": "chen888b",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fapai888": {
+    "username": "fapai888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fuca888": {
+    "username": "fuca888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "grippay": {
+    "username": "grippay",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kaicai888": {
+    "username": "kaicai888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kaipai888": {
+    "username": "kaipai888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "paiwang888": {
+    "username": "paiwang888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wang888b": {
+    "username": "wang888b",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wangia888": {
+    "username": "wangia888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xianshang888": {
+    "username": "xianshang888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "c_a_i_p_i_a_o": {
+    "username": "c_a_i_p_i_a_o",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "d_a_f_a": {
+    "username": "d_a_f_a",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qinai666": {
+    "username": "qinai666",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qinai777": {
+    "username": "qinai777",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qinai999": {
+    "username": "qinai999",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "t_r_x_pay": {
+    "username": "t_r_x_pay",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "coingeckowallet": {
+    "username": "coingeckowallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "crypto_smart_money_si": {
+    "username": "crypto_smart_money_si",
+    "status": "Sold",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": null,
+    "highest_bid_usd": null,
+    "_debug": "<!DOCTYPE html>\n<html class=\"header-tabs\">\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Fragment</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover\" />\n<meta name=\"format-detection\" content=\"telephone=no\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n<meta name=\"MobileOptimized\" content=\"176\" />\n<meta name=\"HandheldFriendly\" content=\"True\" /><meta name=\"twitter:card\" content=\"summary\"></meta>\n<meta property=\"og:url\" content=\"https://fragment.com/?query=crypto_smart_money_si\""
+  },
+  "cz_coingecko": {
+    "username": "cz_coingecko",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gdprfuture": {
+    "username": "gdprfuture",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "nidapplication": {
+    "username": "nidapplication",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "stargatelab": {
+    "username": "stargatelab",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "stargatelabsai": {
+    "username": "stargatelabsai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ustwitch": {
+    "username": "ustwitch",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "verified_gril": {
+    "username": "verified_gril",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xnalyze": {
+    "username": "xnalyze",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.64",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zoplez": {
+    "username": "zoplez",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bantr_funbot": {
+    "username": "bantr_funbot",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bantrfun": {
+    "username": "bantrfun",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bantrfunbot": {
+    "username": "bantrfunbot",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "konnexai": {
+    "username": "konnexai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "konnexworld": {
+    "username": "konnexworld",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "mo_bschain": {
+    "username": "mo_bschain",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "quackholder": {
+    "username": "quackholder",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "rally_fun": {
+    "username": "rally_fun",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "rewardywallet": {
+    "username": "rewardywallet",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.63",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "trendsagi": {
+    "username": "trendsagi",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "veerawallet": {
+    "username": "veerawallet",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.63",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "chatgpt_card": {
+    "username": "chatgpt_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "claude_card": {
+    "username": "claude_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "deepseek_card": {
+    "username": "deepseek_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "nvdaon": {
+    "username": "nvdaon",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "openai_card": {
+    "username": "openai_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "rainbow_card": {
+    "username": "rainbow_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "rapidz_card": {
+    "username": "rapidz_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "sonnet_card": {
+    "username": "sonnet_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "spend_card": {
+    "username": "spend_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "the_kingdom_bank": {
+    "username": "the_kingdom_bank",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "worldfirst_card": {
+    "username": "worldfirst_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "aptos_card": {
+    "username": "aptos_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "arbitum_card": {
+    "username": "arbitum_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cwallet_card": {
+    "username": "cwallet_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "matic_card": {
+    "username": "matic_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "optimism_card": {
+    "username": "optimism_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "plasma_card": {
+    "username": "plasma_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "polygon_card": {
+    "username": "polygon_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "stables_card": {
+    "username": "stables_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "stables_wallet": {
+    "username": "stables_wallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tengem_card": {
+    "username": "tengem_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tron_card": {
+    "username": "tron_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "dtcpay_card": {
+    "username": "dtcpay_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kaia_card": {
+    "username": "kaia_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kavaevm_card": {
+    "username": "kavaevm_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "moneda_card": {
+    "username": "moneda_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "near_card": {
+    "username": "near_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "opbnb_card": {
+    "username": "opbnb_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "polkadot_card": {
+    "username": "polkadot_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "scroll_card": {
+    "username": "scroll_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tezos_card": {
+    "username": "tezos_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xrp_card": {
+    "username": "xrp_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "auto_card": {
+    "username": "auto_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "avax_card": {
+    "username": "avax_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "avaxc_card": {
+    "username": "avaxc_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "meta_ray": {
+    "username": "meta_ray",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "pure_bill": {
+    "username": "pure_bill",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "swift_card": {
+    "username": "swift_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "sys_ceo": {
+    "username": "sys_ceo",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "top_bill": {
+    "username": "top_bill",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tradeascent": {
+    "username": "tradeascent",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "true_node": {
+    "username": "true_node",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "usdc_hub": {
+    "username": "usdc_hub",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bitwaywallet": {
+    "username": "bitwaywallet",
+    "status": "Available",
+    "min_bid_ton": "503",
+    "min_bid_usd": "672.18",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "buildwithglide": {
+    "username": "buildwithglide",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "freelancer_card": {
+    "username": "freelancer_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "get_swap": {
+    "username": "get_swap",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "holdingmid": {
+    "username": "holdingmid",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "spookslabs": {
+    "username": "spookslabs",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wirex_card": {
+    "username": "wirex_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xcrypto_card": {
+    "username": "xcrypto_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xcrypto_pay": {
+    "username": "xcrypto_pay",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xcrypto_wallet": {
+    "username": "xcrypto_wallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "yarhuter": {
+    "username": "yarhuter",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "agistory": {
+    "username": "agistory",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "agitradin": {
+    "username": "agitradin",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "agiwalletbot": {
+    "username": "agiwalletbot",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.63",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bountydotnew": {
+    "username": "bountydotnew",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "lingodotdev": {
+    "username": "lingodotdev",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "opencutapp": {
+    "username": "opencutapp",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qwen3ttsai": {
+    "username": "qwen3ttsai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "simdune": {
+    "username": "simdune",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tx3markets": {
+    "username": "tx3markets",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "upshot_card": {
+    "username": "upshot_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "upshotcard": {
+    "username": "upshotcard",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "backpack_card": {
+    "username": "backpack_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "baobeiiiiiiiiii": {
+    "username": "baobeiiiiiiiiii",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "baocart": {
+    "username": "baocart",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "boycotttrump": {
+    "username": "boycotttrump",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "mother_fucker_wallet": {
+    "username": "mother_fucker_wallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "motherfuckerwallet": {
+    "username": "motherfuckerwallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "paytouu": {
+    "username": "paytouu",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "taocart": {
+    "username": "taocart",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "crutoxapp": {
+    "username": "crutoxapp",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "crutoxwallet": {
+    "username": "crutoxwallet",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.65",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "globalstatsx": {
+    "username": "globalstatsx",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "hxfsjlyeyyodot": {
+    "username": "hxfsjlyeyyodot",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "imc10coin": {
+    "username": "imc10coin",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "luxpeak": {
+    "username": "luxpeak",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.65",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "runnrtrade": {
+    "username": "runnrtrade",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "shinywr2025": {
+    "username": "shinywr2025",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "staktrade": {
+    "username": "staktrade",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "veeracard": {
+    "username": "veeracard",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "verywallet": {
+    "username": "verywallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "demotest128": {
+    "username": "demotest128",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "globalfastads": {
+    "username": "globalfastads",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "holacash": {
+    "username": "holacash",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "jentriq": {
+    "username": "jentriq",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "nutra_bank": {
+    "username": "nutra_bank",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "oramob": {
+    "username": "oramob",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "profitsnxt": {
+    "username": "profitsnxt",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "stanoads": {
+    "username": "stanoads",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "topofferzz": {
+    "username": "topofferzz",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "twomob": {
+    "username": "twomob",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "unitixads": {
+    "username": "unitixads",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "accelvc": {
+    "username": "accelvc",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ambral_ai": {
+    "username": "ambral_ai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ambralai": {
+    "username": "ambralai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "baoling88": {
+    "username": "baoling88",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cerclihq": {
+    "username": "cerclihq",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "collabute": {
+    "username": "collabute",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.65",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "flyxgame": {
+    "username": "flyxgame",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "marjospots": {
+    "username": "marjospots",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "melaniamovie": {
+    "username": "melaniamovie",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "orabrowser": {
+    "username": "orabrowser",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ossdotnow": {
+    "username": "ossdotnow",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ausarai": {
+    "username": "ausarai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cicadavirus": {
+    "username": "cicadavirus",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "clawlake": {
+    "username": "clawlake",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fassetcard": {
+    "username": "fassetcard",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "firstmarkcap": {
+    "username": "firstmarkcap",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.65",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "hexa_card": {
+    "username": "hexa_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kyanexchange": {
+    "username": "kyanexchange",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.65",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "payy_card": {
+    "username": "payy_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qualitativai": {
+    "username": "qualitativai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "seosamsung": {
+    "username": "seosamsung",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "slappstickers": {
+    "username": "slappstickers",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cryptomus_card": {
+    "username": "cryptomus_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cryptomuscard": {
+    "username": "cryptomuscard",
+    "status": "Available",
+    "min_bid_ton": "50",
+    "min_bid_usd": "66.82",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "inclusionai": {
+    "username": "inclusionai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "jaima_rahman": {
+    "username": "jaima_rahman",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "krypto_card": {
+    "username": "krypto_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "megawin_ton": {
+    "username": "megawin_ton",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "metamask_card": {
+    "username": "metamask_card",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "pengu_card": {
+    "username": "pengu_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "prime_minister_bangladesh": {
+    "username": "prime_minister_bangladesh",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "prime_minister_tarique_rahman": {
+    "username": "prime_minister_tarique_rahman",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "primeministertariquerahman": {
+    "username": "primeministertariquerahman",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "airbase_card": {
+    "username": "airbase_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bitsika_card": {
+    "username": "bitsika_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "buvei_card": {
+    "username": "buvei_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "loss_card": {
+    "username": "loss_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "oppi_card": {
+    "username": "oppi_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "skrill_card": {
+    "username": "skrill_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "starling_card": {
+    "username": "starling_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tria_card": {
+    "username": "tria_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wallester_card": {
+    "username": "wallester_card",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wallesterbot": {
+    "username": "wallesterbot",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.65",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xcashtags": {
+    "username": "xcashtags",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "detectarena": {
+    "username": "detectarena",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "detectarenaai": {
+    "username": "detectarenaai",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "efootbalcontext": {
+    "username": "efootbalcontext",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "efootplay": {
+    "username": "efootplay",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gluoncard": {
+    "username": "gluoncard",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kiikikikiki": {
+    "username": "kiikikikiki",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "letsplayef": {
+    "username": "letsplayef",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "match_finder": {
+    "username": "match_finder",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "oibow": {
+    "username": "oibow",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "whatsapcard": {
+    "username": "whatsapcard",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "y8aaaaa": {
+    "username": "y8aaaaa",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "arenteiro": {
+    "username": "arenteiro",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "atleticobaleares": {
+    "username": "atleticobaleares",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "barcelonaatletic": {
+    "username": "barcelonaatletic",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ceutafc": {
+    "username": "ceutafc",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "copafinal": {
+    "username": "copafinal",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "deportivolc": {
+    "username": "deportivolc",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "dravoceo": {
+    "username": "dravoceo",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "duxlogrono": {
+    "username": "duxlogrono",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ibizaud": {
+    "username": "ibizaud",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "blockmemo": {
+    "username": "blockmemo",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "chainmemo": {
+    "username": "chainmemo",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "deaborai": {
+    "username": "deaborai",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "defivault": {
+    "username": "defivault",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "f4nnf": {
+    "username": "f4nnf",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "grok_card": {
+    "username": "grok_card",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "payfock": {
+    "username": "payfock",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "purserpay": {
+    "username": "purserpay",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "purserpayapp": {
+    "username": "purserpayapp",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "purserpaybot": {
+    "username": "purserpaybot",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "v7hhv": {
+    "username": "v7hhv",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "assureid": {
+    "username": "assureid",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "avsecretwars": {
+    "username": "avsecretwars",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "grok4alpha": {
+    "username": "grok4alpha",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "jrbean6510": {
+    "username": "jrbean6510",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kyc_markt": {
+    "username": "kyc_markt",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "lucklady": {
+    "username": "lucklady",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "noplaceapp": {
+    "username": "noplaceapp",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "on_xbet": {
+    "username": "on_xbet",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "p_o_l_y_m_a_r_k_t": {
+    "username": "p_o_l_y_m_a_r_k_t",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "p_o_l_y_market": {
+    "username": "p_o_l_y_market",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "uight": {
+    "username": "uight",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "efootballabyt": {
+    "username": "efootballabyt",
+    "status": "Sold",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": null,
+    "highest_bid_usd": null,
+    "_debug": "<!DOCTYPE html>\n<html class=\"header-tabs\">\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Fragment</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover\" />\n<meta name=\"format-detection\" content=\"telephone=no\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n<meta name=\"MobileOptimized\" content=\"176\" />\n<meta name=\"HandheldFriendly\" content=\"True\" /><meta name=\"twitter:card\" content=\"summary\"></meta>\n<meta property=\"og:url\" content=\"https://fragment.com/?query=efootballabyt\" />\n<met"
+  },
+  "ether_card": {
+    "username": "ether_card",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gemma4ai": {
+    "username": "gemma4ai",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "iailo": {
+    "username": "iailo",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "interlink_card": {
+    "username": "interlink_card",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "interlinkcard": {
+    "username": "interlinkcard",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "naruto_anime_en": {
+    "username": "naruto_anime_en",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "streakapp": {
+    "username": "streakapp",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "usdt_need": {
+    "username": "usdt_need",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "vantage_card": {
+    "username": "vantage_card",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wahoopay": {
+    "username": "wahoopay",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "aoyshao": {
+    "username": "aoyshao",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "c_a_s_i_n_o_888bot": {
+    "username": "c_a_s_i_n_o_888bot",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "duobika": {
+    "username": "duobika",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "f_u_k_u_a_n": {
+    "username": "f_u_k_u_a_n",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "h_u_a_n_q_i": {
+    "username": "h_u_a_n_q_i",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "heidsebot": {
+    "username": "heidsebot",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "q_i_a_n_b_a_o": {
+    "username": "q_i_a_n_b_a_o",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "send_trx": {
+    "username": "send_trx",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "shuangbika": {
+    "username": "shuangbika",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "terrorist_pavel": {
+    "username": "terrorist_pavel",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "certifyai": {
+    "username": "certifyai",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fuck_eth": {
+    "username": "fuck_eth",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fuck_grils": {
+    "username": "fuck_grils",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "get_gramcoin": {
+    "username": "get_gramcoin",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "get_pron": {
+    "username": "get_pron",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "get_usd1": {
+    "username": "get_usd1",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "get_usdc": {
+    "username": "get_usdc",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "peakwal": {
+    "username": "peakwal",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "proncard": {
+    "username": "proncard",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "scam_eth": {
+    "username": "scam_eth",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wallet_scam": {
+    "username": "wallet_scam",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "chenzhexian": {
+    "username": "chenzhexian",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "dajitongxing": {
+    "username": "dajitongxing",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gpt5sol": {
+    "username": "gpt5sol",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gram_c_o_i_n": {
+    "username": "gram_c_o_i_n",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gram_r_i_c_h": {
+    "username": "gram_r_i_c_h",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "jinbibao": {
+    "username": "jinbibao",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "liujiapeng": {
+    "username": "liujiapeng",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qiandaobao": {
+    "username": "qiandaobao",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "yibenwan": {
+    "username": "yibenwan",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zhangtiandong": {
+    "username": "zhangtiandong",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zzk999": {
+    "username": "zzk999",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "beting_8": {
+    "username": "beting_8",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "beting_88": {
+    "username": "beting_88",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "beting_888": {
+    "username": "beting_888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bocai_888": {
+    "username": "bocai_888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "caipiao_8888": {
+    "username": "caipiao_8888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gifts_88": {
+    "username": "gifts_88",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "num888888888": {
+    "username": "num888888888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "number8888888888": {
+    "username": "number8888888888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "usernames_8888": {
+    "username": "usernames_8888",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "adevez": {
+    "username": "adevez",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "azyanahmed": {
+    "username": "azyanahmed",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.64",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cardanohq": {
+    "username": "cardanohq",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cardanonet": {
+    "username": "cardanonet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "core2026": {
+    "username": "core2026",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "halvingprofit": {
+    "username": "halvingprofit",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "iot_hub": {
+    "username": "iot_hub",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "javont": {
+    "username": "javont",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "lonzow": {
+    "username": "lonzow",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "nomity": {
+    "username": "nomity",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "pionexcrad": {
+    "username": "pionexcrad",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "polkadotzone": {
+    "username": "polkadotzone",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qz_world": {
+    "username": "qz_world",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "sieniz": {
+    "username": "sieniz",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.36",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "username_xpress": {
+    "username": "username_xpress",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.64",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "vipultrax": {
+    "username": "vipultrax",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "vusly": {
+    "username": "vusly",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wealthhawk": {
+    "username": "wealthhawk",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xultravip": {
+    "username": "xultravip",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zo_net": {
+    "username": "zo_net",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zoiez": {
+    "username": "zoiez",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "autodevx": {
+    "username": "autodevx",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "aynanarish": {
+    "username": "aynanarish",
+    "status": "Available",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cognitoai": {
+    "username": "cognitoai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "digitalvipnumbers": {
+    "username": "digitalvipnumbers",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "hbosports": {
+    "username": "hbosports",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "shredmode": {
+    "username": "shredmode",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ventureera": {
+    "username": "ventureera",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zengrind": {
+    "username": "zengrind",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "assistantemerginggemini": {
+    "username": "assistantemerginggemini",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bdcryptofuture": {
+    "username": "bdcryptofuture",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "connectgeographic": {
+    "username": "connectgeographic",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "culturalai": {
+    "username": "culturalai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "deboagent": {
+    "username": "deboagent",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "debogaming": {
+    "username": "debogaming",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "elon_mask_xai": {
+    "username": "elon_mask_xai",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.65",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "mindfulsocial": {
+    "username": "mindfulsocial",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "nomadshort": {
+    "username": "nomadshort",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tokenlimit": {
+    "username": "tokenlimit",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "vortaq": {
+    "username": "vortaq",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "algo_affiliates": {
+    "username": "algo_affiliates",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "alon_hero": {
+    "username": "alon_hero",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cpasmartlink": {
+    "username": "cpasmartlink",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cryptomarket2028": {
+    "username": "cryptomarket2028",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "link_approve": {
+    "username": "link_approve",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "mobipium": {
+    "username": "mobipium",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "mukiturrahman": {
+    "username": "mukiturrahman",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "pollerads": {
+    "username": "pollerads",
+    "status": "Available",
+    "min_bid_ton": "15",
+    "min_bid_usd": "20.05",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "thinkmachlab": {
+    "username": "thinkmachlab",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wedebeek": {
+    "username": "wedebeek",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "adandsea": {
+    "username": "adandsea",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "adwool": {
+    "username": "adwool",
+    "status": "Available",
+    "min_bid_ton": "190",
+    "min_bid_usd": "253.94",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "affbloom": {
+    "username": "affbloom",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "affgrade": {
+    "username": "affgrade",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "affrealboost": {
+    "username": "affrealboost",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "affscorpions": {
+    "username": "affscorpions",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "armadaapp": {
+    "username": "armadaapp",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "b4daffiliate": {
+    "username": "b4daffiliate",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bedigitech": {
+    "username": "bedigitech",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "btagmedia": {
+    "username": "btagmedia",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zryptopay": {
+    "username": "zryptopay",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bep20pay": {
+    "username": "bep20pay",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fifa_ann": {
+    "username": "fifa_ann",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "fifafootbalofficial": {
+    "username": "fifafootbalofficial",
+    "status": "Sold",
+    "min_bid_ton": "—",
+    "min_bid_usd": "—",
+    "highest_bid_ton": null,
+    "highest_bid_usd": null,
+    "_debug": "<!DOCTYPE html>\n<html class=\"header-tabs\">\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Fragment</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover\" />\n<meta name=\"format-detection\" content=\"telephone=no\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n<meta name=\"MobileOptimized\" content=\"176\" />\n<meta name=\"HandheldFriendly\" content=\"True\" /><meta name=\"twitter:card\" content=\"summary\"></meta>\n<meta property=\"og:url\" content=\"https://fragment.com/?query=fifafootbalofficial\" /"
+  },
+  "kingpayr": {
+    "username": "kingpayr",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "offer_buyer": {
+    "username": "offer_buyer",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "offer_seller": {
+    "username": "offer_seller",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "postandvibe": {
+    "username": "postandvibe",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "pronwallet": {
+    "username": "pronwallet",
+    "status": "Available",
+    "min_bid_ton": "5303",
+    "min_bid_usd": "7088",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "stringsolution": {
+    "username": "stringsolution",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "taofun": {
+    "username": "taofun",
+    "status": "Available",
+    "min_bid_ton": "5303",
+    "min_bid_usd": "7088",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "unpaidcompany": {
+    "username": "unpaidcompany",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "blinkdotnew": {
+    "username": "blinkdotnew",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "lean_block": {
+    "username": "lean_block",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "newdotemail": {
+    "username": "newdotemail",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "nfuturet": {
+    "username": "nfuturet",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "palomarod": {
+    "username": "palomarod",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "palomarro": {
+    "username": "palomarro",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "playcashgame": {
+    "username": "playcashgame",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "reactdotemail": {
+    "username": "reactdotemail",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "rivr_dex": {
+    "username": "rivr_dex",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "sailvista": {
+    "username": "sailvista",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "superchiefnft": {
+    "username": "superchiefnft",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kaito_yaps": {
+    "username": "kaito_yaps",
+    "status": "Available",
+    "min_bid_ton": "20",
+    "min_bid_usd": "26.73",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "koinbanker": {
+    "username": "koinbanker",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "konnexdotworld": {
+    "username": "konnexdotworld",
+    "status": "Available",
+    "min_bid_ton": "50",
+    "min_bid_usd": "66.83",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "satoshiogwhale": {
+    "username": "satoshiogwhale",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "setfares": {
+    "username": "setfares",
+    "status": "Available",
+    "min_bid_ton": "210",
+    "min_bid_usd": "280.67",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "terms_of_servicee": {
+    "username": "terms_of_servicee",
+    "status": "Available",
+    "min_bid_ton": "19",
+    "min_bid_usd": "25.39",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "whaatcrypto": {
+    "username": "whaatcrypto",
+    "status": "Available",
+    "min_bid_ton": "104",
+    "min_bid_usd": "139",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "yaps_kaito": {
+    "username": "yaps_kaito",
+    "status": "Available",
+    "min_bid_ton": "20",
+    "min_bid_usd": "26.73",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "yaps_kaitoai": {
+    "username": "yaps_kaitoai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bnbcryptoback": {
+    "username": "bnbcryptoback",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "btcsellerbd": {
+    "username": "btcsellerbd",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "collabnix": {
+    "username": "collabnix",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "felloai": {
+    "username": "felloai",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gabbyai": {
+    "username": "gabbyai",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "gridbrain": {
+    "username": "gridbrain",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "myryzeapp": {
+    "username": "myryzeapp",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "pistonhub": {
+    "username": "pistonhub",
+    "status": "Available",
+    "min_bid_ton": "30",
+    "min_bid_usd": "40.12",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "sensornet": {
+    "username": "sensornet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tasteai": {
+    "username": "tasteai",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "wizwallet": {
+    "username": "wizwallet",
+    "status": "Available",
+    "min_bid_ton": "33",
+    "min_bid_usd": "44.13",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cjaffiliate": {
+    "username": "cjaffiliate",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "codegeexai": {
+    "username": "codegeexai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "dexewallet": {
+    "username": "dexewallet",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "einsteinwallet": {
+    "username": "einsteinwallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "enawallet": {
+    "username": "enawallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kyc_submit": {
+    "username": "kyc_submit",
+    "status": "Available",
+    "min_bid_ton": "119",
+    "min_bid_usd": "159.13",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "lucky_jackpot888": {
+    "username": "lucky_jackpot888",
+    "status": "Available",
+    "min_bid_ton": "19",
+    "min_bid_usd": "25.41",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ocwcoin": {
+    "username": "ocwcoin",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ocwwallet": {
+    "username": "ocwwallet",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "yieldport": {
+    "username": "yieldport",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zenitreich": {
+    "username": "zenitreich",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ankrbnb": {
+    "username": "ankrbnb",
+    "status": "Available",
+    "min_bid_ton": "19",
+    "min_bid_usd": "25.41",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ankrdocs": {
+    "username": "ankrdocs",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bitcoinoverview": {
+    "username": "bitcoinoverview",
+    "status": "Available",
+    "min_bid_ton": "19",
+    "min_bid_usd": "25.41",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "bnb2048": {
+    "username": "bnb2048",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cryll_ai": {
+    "username": "cryll_ai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "crypto_signal_hub2018": {
+    "username": "crypto_signal_hub2018",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "cryptocurrency_gg": {
+    "username": "cryptocurrency_gg",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "deloreanai": {
+    "username": "deloreanai",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "hotdropd": {
+    "username": "hotdropd",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "kaustai": {
+    "username": "kaustai",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zsats": {
+    "username": "zsats",
+    "status": "Available",
+    "min_bid_ton": "39",
+    "min_bid_usd": "52.15",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "chatixai": {
+    "username": "chatixai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "justifyai": {
+    "username": "justifyai",
+    "status": "Available",
+    "min_bid_ton": "33",
+    "min_bid_usd": "44.13",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "maggieai": {
+    "username": "maggieai",
+    "status": "Available",
+    "min_bid_ton": "32",
+    "min_bid_usd": "42.79",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "obotai": {
+    "username": "obotai",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "reindeerai": {
+    "username": "reindeerai",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "starbaseai": {
+    "username": "starbaseai",
+    "status": "Available",
+    "min_bid_ton": "19",
+    "min_bid_usd": "25.41",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "tokenmatrix": {
+    "username": "tokenmatrix",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "walletior": {
+    "username": "walletior",
+    "status": "Available",
+    "min_bid_ton": "100",
+    "min_bid_usd": "133.72",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "xxxnfty": {
+    "username": "xxxnfty",
+    "status": "Available",
+    "min_bid_ton": "27",
+    "min_bid_usd": "36.11",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "zenityai": {
+    "username": "zenityai",
+    "status": "Available",
+    "min_bid_ton": "22",
+    "min_bid_usd": "29.42",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "c_a_s_i_n_o_888": {
+    "username": "c_a_s_i_n_o_888",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "c_a_s_i_n_o_online": {
+    "username": "c_a_s_i_n_o_online",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "crypto_ex": {
+    "username": "crypto_ex",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "markindollar": {
+    "username": "markindollar",
+    "status": "Available",
+    "min_bid_ton": "19",
+    "min_bid_usd": "25.41",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "mywalletx": {
+    "username": "mywalletx",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "qreep": {
+    "username": "qreep",
+    "status": "Available",
+    "min_bid_ton": "27",
+    "min_bid_usd": "36.11",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "slot777x": {
+    "username": "slot777x",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ttt777x": {
+    "username": "ttt777x",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "ttt888x": {
+    "username": "ttt888x",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "viva888x": {
+    "username": "viva888x",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
+    "highest_bid_ton": "?",
+    "highest_bid_usd": null,
+    "_debug": ""
+  },
+  "win888r": {
+    "username": "win888r",
+    "status": "Available",
+    "min_bid_ton": "10",
+    "min_bid_usd": "13.37",
     "highest_bid_ton": "?",
     "highest_bid_usd": null,
     "_debug": ""
