@@ -44,7 +44,7 @@
 @qinai999
 @t_r_x_pay
 @coingeckowallet
-@crypto_smart_money_si
+@crypto_smart_money_signal
 @cz_coingecko
 @gdprfuture
 @nidapplication
@@ -246,7 +246,7 @@
 @p_o_l_y_m_a_r_k_t
 @p_o_l_y_market
 @uight
-@efootballabyt
+@efootballlabyt
 @ether_card
 @gemma4ai
 @iailo
@@ -361,7 +361,7 @@
 @zryptopay
 @bep20pay
 @fifa_ann
-@fifafootbalofficial
+@fifafootballofficial
 @kingpayr
 @offer_buyer
 @offer_seller
