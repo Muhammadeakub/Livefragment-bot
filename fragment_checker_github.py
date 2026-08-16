@@ -29,7 +29,11 @@ API_ID         = int(os.environ["API_ID"])
 API_HASH       = os.environ["API_HASH"]
 BOT_TOKEN      = os.environ["BOT_TOKEN"]
 SESSION_STRING = os.environ["SESSION_STRING"]
-TARGET         = os.environ.get("TARGET", "@muhammadeakub")
+_target_raw = os.environ.get("TARGET", "@muhammadeakub").strip()
+if _target_raw.lstrip("-").isdigit():
+    TARGET = int(_target_raw)   # numeric chat/user ID must be passed as int, not string
+else:
+    TARGET = _target_raw        # @username stays as-is
 
 BATCH_SIZE       = 5
 BATCH_DELAY_MIN  = 2.0   # seconds
