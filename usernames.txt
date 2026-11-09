@@ -2,7 +2,6 @@
 @auroralayer
 @auto_updates
 @availfusion
-@bitcoin005287
 @celestiarollups
 @conteflow
 @eonprotocol
