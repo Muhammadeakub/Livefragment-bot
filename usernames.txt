@@ -14,7 +14,6 @@
 @social_post
 @verychain
 @worldwide_markets
-@zuvoria
 @beta_card
 @cademarkets
 @collectible_markt
